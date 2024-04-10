@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a6053c8.css",
+    "main.js": "/static/js/main.13aedea9.js",
+    "static/js/400.dbef4dfc.chunk.js": "/static/js/400.dbef4dfc.chunk.js",
+    "static/media/BackgroundIMG.png": "/static/media/BackgroundIMG.610f63453cd19025f01c.png",
+    "static/media/Italian-Chicken-and-Rice-2.jpg": "/static/media/Italian-Chicken-and-Rice-2.4bb1c3ca69088aad425f.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1a6053c8.css.map": "/static/css/main.1a6053c8.css.map",
+    "main.13aedea9.js.map": "/static/js/main.13aedea9.js.map",
+    "400.dbef4dfc.chunk.js.map": "/static/js/400.dbef4dfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6053c8.css",
+    "static/js/main.13aedea9.js"
+  ]
+}
